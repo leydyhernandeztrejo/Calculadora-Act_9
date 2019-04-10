@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bt_rest" type="id">rest</item>
+    <item name="bt_division" type="id">division</item>
+    <item name="bt_multiplication" type="id">multplication</item>
+    <item name="et_number1" type="id">number1</item>
+    <item name="bt_add" type="id">bt_add</item>
+    <item name="et_result" type="id">et_result</item>
+    <item name="tv_result" type="id">tv_result</item>
+    <item name="tv_number2" type="id">tv_number2</item>
+    <item name="tv_number1" type="id">tv_number1</item>
+    <item name="et_number2" type="id">number2</item>
+</resources>
